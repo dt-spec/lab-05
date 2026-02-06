@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Devkumar Tiwari
+- **CCID:** devkumar
 
 ## References and Resources
 
